@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1-M.IkhsanGumanof</string>
+    <string name="title">Project 1</string>
+    <string name="nama">Nama Mahasiswa</string>
+    <string name="prodi">Program Studi</string>
+    <string name="oke">Submit</string>
+    <string name="data">Data Mahasiswa</string>
+</resources>
